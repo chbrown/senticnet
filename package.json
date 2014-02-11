@@ -1,0 +1,23 @@
+{
+  "name": "senticnet",
+  "version": "2.1.0",
+  "description": "senticnet conversions",
+  "keywords": [],
+  "homepage": "https://github.com/chbrown/senticnet",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chbrown/senticnet.git"
+  },
+  "bugs": {
+    "email": "Christopher Brown <io@henrian.com>",
+    "url": "http://github.com/chbrown/senticnet/issues"
+  },
+  "license": "MIT",
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "dependencies": {
+    "xmlconv": "*"
+  },
+  "devDependencies": {},
+  "bin": {},
+  "scripts": {}
+}
